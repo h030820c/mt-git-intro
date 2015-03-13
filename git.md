@@ -97,7 +97,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Octocat</td>
-  <td>Definition</td>
+  <td>The GitHub mascot.</td>
 </tr>
 </table>
 
