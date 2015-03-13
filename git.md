@@ -97,7 +97,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Octocat</td>
-  <td>Definition</td>
+  <td>The GitHub mascot.</td>
 </tr>
 </table>
 
@@ -339,7 +339,7 @@ Explore the many other features of the web-based platforms (links can be found a
 
 ## Help improve this document
 
-Have u spoted a typo, smelling eror, inaccuracy or think this document is missing a key aspect of Git? Read on to find out how you can fix and contribute, using Git of course!
+Have u spoted a typo, spelling error, inaccuracy or think this document is missing a key aspect of Git? Read on to find out how you can fix and contribute, using Git of course!
 
 
 ### Forking projects
