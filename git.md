@@ -73,7 +73,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Fork</td>
-  <td>Definition</td>
+  <td>Linking the  repository to another user</td>
 </tr>
 <tr>
   <td>History / Commit log</td>
